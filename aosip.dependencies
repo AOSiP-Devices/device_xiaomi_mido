@@ -1,0 +1,14 @@
+[
+  {
+    "remote"      : "github",
+    "repository"  : "TheScarastic/android_kernel_xiaomi_msm8953",
+    "target_path" : "kernel/xiaomi/msm8953",
+    "branch"      : "cm-14.1"
+  },
+  {
+    "remote"      : "github",
+    "repository"  : "AICP/proprietary_vendor_xiaomi",
+    "target_path" : "vendor/xiaomi",
+    "branch"      : "n7.1"
+  }
+]
