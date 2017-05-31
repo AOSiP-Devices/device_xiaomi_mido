@@ -8,6 +8,10 @@
     "target_path" : "vendor/xiaomi"
   },
   {
+    "repository"  : "hardware_cyanogen",
+    "target_path" : "hardware/cyanogen"
+  },
+  {
    "remote"       : "github",
    "repository"   : "LineageOS/android_packages_apps_Snap",
    "target_path"  : "packages/apps/Snap",
