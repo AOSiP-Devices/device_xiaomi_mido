@@ -1,7 +1,9 @@
 [
   {
-    "repository"  : "kernel_xiaomi_msm8953",
-    "target_path" : "kernel/xiaomi/msm8953"
+    "remote"      : "github",
+    "repository"  : "LineageOS/android_kernel_xiaomi_msm8953",
+    "target_path" : "kernel/xiaomi/msm8953",
+    "branch"      : "cm-14.1"
   },
   {
     "repository"  : "vendor_xiaomi_mido",
