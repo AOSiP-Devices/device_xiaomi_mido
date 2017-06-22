@@ -4,8 +4,8 @@
     "target_path" : "kernel/xiaomi/msm8953"
   },
   {
-    "repository"  : "platform_vendor_xiaomi",
-    "target_path" : "vendor/xiaomi"
+    "repository"  : "vendor_xiaomi_mido",
+    "target_path" : "vendor/xiaomi/mido"
   },
   {
     "repository"  : "hardware_cyanogen",
