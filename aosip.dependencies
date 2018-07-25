@@ -15,8 +15,8 @@
    "branch"     : "lineage-15.1"
  },
  {
-   "repository" : "TheMuppets/proprietary_vendor_xiaomi",
+   "repository" : "Adesh15/proprietary_vendor_xiaomi",
    "target_path": "vendor/xiaomi",
-   "branch"     : "lineage-15.1"
+   "branch"     : "oreo-mr1"
  }
 ]
