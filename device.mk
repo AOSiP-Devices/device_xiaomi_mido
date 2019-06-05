@@ -203,10 +203,7 @@ PRODUCT_PACKAGES += \
 
 # HIDL
 PRODUCT_PACKAGES += \
-    android.hidl.base@1.0 \
-    android.hidl.base@1.0_system \
-    android.hidl.manager@1.0 \
-    android.hidl.manager@1.0_system
+    android.hidl.base@1.0
 
 # IMS
 PRODUCT_PACKAGES += \
@@ -308,6 +305,7 @@ PRODUCT_PACKAGES += \
 
 # RIL
 PRODUCT_PACKAGES += \
+    android.hardware.radio@1.2 \
     android.hardware.radio.config@1.0 \
     android.hardware.secure_element@1.0 \
     librmnetctl \
