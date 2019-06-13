@@ -175,7 +175,7 @@ vendor/lib64/libssd.so|0e988e6ef7b1d356f4b92a26a61b96a840de1d20
 # DRM - Widevine - from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM
 vendor/bin/hw/android.hardware.drm@1.1-service.widevine|458b57eadd116b32d1d288447d3537d00761f506
 vendor/etc/init/android.hardware.drm@1.1-service.widevine.rc|458dd241f5f8536eccb57f012b3eba0061736e8e
-vendor/lib/libwvhidl.so|5559b19fcaa0b462c387bafa173f1ea9fb578acf
+vendor/lib/libwvhidl.so|45bc058184befe19b26cbb7bbcedf497c693024e
 
 # FM Radio - from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM
 vendor/bin/fm_qsoc_patches|77f31379d6bf68f2f0b3aa8936150b778c4e89ee
@@ -582,7 +582,7 @@ vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so|f4eef520bbf98e6e1ac869
 vendor/lib64/vendor.qti.imsrtpservice@1.0.so|559a2dbf409d86746ed4303f2e0089256bb91a07
 
 # Sensors - from Tissot PKQ1.180917.001/V10.0.7.0.PDHMIXM
-vendor/bin/sensors.qti|5d5168447214cf90a602e6fb8956d52a54e3735b
+vendor/bin/sensors.qti|a2294878cef6ab4a6e51968e88799585c7d456fd
 vendor/lib/hw/activity_recognition.msm8953.so|f9247646a5e2b28473753da06f832ae5f702f7c4
 vendor/lib/libsensor1.so|48727a05c1b91051d5ec53860124f1f1c0d8ca53
 vendor/lib/libsensor_reg.so|8ae3b9d1a54feb9f0af55a8fff50410f53660318
@@ -628,13 +628,13 @@ etc/wfdconfigsink.xml|f180a45f69fa2ff01dbaf98c905cff1e9eba903e
 lib/com.qualcomm.qti.wifidisplayhal@1.0.so|93487a83a35f0fa3fe37445edd3ff22fcc52e4fc
 lib64/extractors/libmmparser.so|1fc162b21bf01b347c3bf8c532560f443bac283c
 lib64/libFileMux.so|c528ef66ce38e8474690b75d6ee1c9380c424be1
-lib64/libmmparser_lite.so|e6cc448614215f4d7b5dc6f36c1336f0044bb3b8
+lib64/libmmparser_lite.so|f6c465e20ee7e3ac68096c73e59194923dfdb885
 lib64/libmmosal.so|3d50c7ea56db9c3676be9d6e36e1030386ecdb02
 lib64/libwfdclient.so|c69712162493bdaa8833b5aae342ee4f9b0c2408
 lib64/libwfdnative.so|f2d11f94e107a7de8457310ad1e4fc983d5a10fd
 lib/extractors/libmmparser.so|6c50c5d01ceff647de389f3f15b1952c2bcdd2d7
 lib/libFileMux.so|5961dd16c9c6808e8321abf4b0266a9926ef327b
-lib/libmmparser_lite.so|db9e6dafd466fd0aa3b2d7b387fda38ee9838a08
+lib/libmmparser_lite.so|24f618e304ef7a7ad4458e9f264467fb8f867f18
 lib/libmmosal.so|89a3c4404de99e9ee740aeea1883c15470d61a74
 lib/libmmrtpdecoder.so|adb55936e63ff087a9e3458070515e1ab7dbe178
 lib/libmmrtpencoder.so|9a85d450a8633207f7a499962c5821d1a3fec2b8
