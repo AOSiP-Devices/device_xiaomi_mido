@@ -29,4 +29,8 @@
     <bool name="config_lockscreenAntiFalsingClassifierEnabled">false</bool>
 
     <bool name="config_batteryInQSPanel">false</bool>
+
+    <!-- Max visible notification icons -->
+    <integer name="config_maxVisibleNotificationIcons">7</integer>
+    <integer name="config_maxVisibleNotificationIconsWhenDark">8</integer>
 </resources>
