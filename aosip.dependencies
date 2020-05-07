@@ -1,0 +1,11 @@
+[
+ {
+    "repository": "proprietary_vendor_xiaomi",
+    "target_path": "vendor/xiaomi"
+ },
+ {
+   "repository" : "Adesh15/android_kernel_xiaomi_msm8953",
+   "target_path": "kernel/xiaomi/mido",
+   "branch"     : "ten"
+ }
+]
