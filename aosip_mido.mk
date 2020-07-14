@@ -24,6 +24,9 @@ $(call inherit-product, device/xiaomi/mido/device.mk)
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 
+# Inherit Google Play System Update stuff
+$(call inherit-product-if-exists, vendor/google/psu/google-psu.mk)
+
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := mido
 PRODUCT_NAME := aosip_mido
